@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Allen
+- 🌱 I’m currently learning TypeScript/React
+- 📫 This is my mailbox: (guolong613@gmail.com)
