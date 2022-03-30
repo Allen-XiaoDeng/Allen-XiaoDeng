@@ -11,7 +11,7 @@
 </a>
  
 <a href="https://www.zhihu.com/people/fall-92-99">
-    <img src="https://img.shields.io/badge/Tencentcloud Page View-2k-blue.svg" alt="" title="xiaodeng的知乎" />
+    <img src="https://img.shields.io/badge/Zhihu Page View-2k-blue.svg" alt="" title="xiaodeng的知乎" />
 </a>
  
 ---
