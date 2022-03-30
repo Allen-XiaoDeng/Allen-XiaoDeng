@@ -2,8 +2,8 @@
  
 ### Hello World! I am <b><a target="_blank" href="javascript:;">xiaodeng</a></b>.
  
-- :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
+- :hearts: I'm a font-end engineer.. 
+- :1st_place_medal: Passionate about open source software.
 - :sun_with_face: What i have achieved.
  
 <a href="https://blog.csdn.net/qq_44482197?type=blog">
